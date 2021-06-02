@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+<ol>
+    <li>This</li>
+    <li>Is an</li>
+    <li>Ordered list</li>
+      <li><a href="https://github.com">This is a link to GitHub!</a></li>
+
+    </ol>
