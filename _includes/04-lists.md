@@ -2,6 +2,6 @@
     <li>This</li>
     <li>Is an</li>
     <li>Ordered list</li>
-      <li><a href="https://github.com">This is a link to GitHub!</a></li>
+    </li>
 
-    </ol>
+   </ol>
