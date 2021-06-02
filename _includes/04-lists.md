@@ -1,7 +1,13 @@
-<ol>
-    <li>This</li>
-    <li>Is an</li>
-    <li>Ordered list</li>
-    </li>
+* Item 1
 
-   </ol>
+* Item 2
+
+  * Item 2a
+
+  * Item 2b
+
+Item 1
+Item 2
+Item 2a
+Item 2b
+
